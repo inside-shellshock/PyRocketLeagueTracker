@@ -49,8 +49,8 @@ if __name__ == "__main__":
     print(figlet_format("Rocket League Tracker", font="small"), end="")
     global target_nick
     global target_nick2
-    target_nick = "DarKnife95"
-    target_nick2 = "Franchigio"
+    target_nick = ""
+    target_nick2 = ""
     print()
     url = "https://rocketleague.tracker.network/profile/ps/" + target_nick
     url2 = "https://rocketleague.tracker.network/profile/ps/" + target_nick2
